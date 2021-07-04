@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entity/Process.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/CommonIntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/CommonIntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/CommonMultiIntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/CommonMultiIntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/IntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/intervalSet/MultiIntervalSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/other/Roster.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/other/Roster.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/TestFileUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/utils/FileUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
